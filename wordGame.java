@@ -1,9 +1,4 @@
-/*
-	Who worked on what:
-	Adam  --> printGrid, userInput, updateGrid, printWrong, addWrong
-	Oscar --> generateRandomGrid, pickWords, checkInputWord
-	Both  --> main
-*/
+
 
 package main; //might need to comment out for __PEER REVIEW__ if your not using the Eclipse IDE because this is required for the IDE to run
 
